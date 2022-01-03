@@ -1,5 +1,5 @@
 <p align="center">
-    [![Contributors][contributors-shield]][https://github.com/eyp57]
+    [![Contributors][contributors-shield]][eyp57]
 </p>
 
 
