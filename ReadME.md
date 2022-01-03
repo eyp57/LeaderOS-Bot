@@ -1,9 +1,3 @@
-<p align="center">
-[![Contributors][contributors-shield]][contributors-url]
-</p>
-
-
-
 ### Kullanılan Modüller & Diller
 
 * [Node.js](https://nodejs.org/)
